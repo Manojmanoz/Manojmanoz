@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manoj </h1>
 <h3 align="center">I'm someone who gets motivated from within and always finds inspiration. I love learning new things and have many interests. I'm always excited to learn and grow, looking for new chances to develop myself both personally and professionally</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipularya135&label=Profile%20views&color=0e75b6&style=flat" alt="vipularya135" /> </p>
+<p align="left"> <img src="" alt="" /> </p>
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Full Stack Web Development**
 
-- 📫 How to reach me **krishnamvipul@gmail.com**
+- 📫 How to reach me **manojpower345@gmail.com**
 
 - 📄 Know about my experiences [https://krishnamvipul.wixsite.com/vipularya](https://krishnamvipul.wixsite.com/vipularya)
 
