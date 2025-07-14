@@ -8,10 +8,12 @@
 - 📫 How to reach me **manojpower345@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manojyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojyn" height="30" width="40" /></a>
-<a href="https://kaggle.com/manoj yn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Manojyn" height="30" width="40" /></a>
+
+<!--  
+
+<p align="left"> -->
+<!-- <a href="https://linkedin.com/in/manojyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojyn" height="30" width="40" /></a> -->
+<!-- <a href="https://kaggle.com/manoj yn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Manojyn" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipul_aryaa" height="30" width="40" /></a> -->
 </p>
 
