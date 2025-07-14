@@ -7,13 +7,12 @@
 
 - 📫 How to reach me **manojpower345@gmail.com**
 
-- 📄 Know about my experiences [https://krishnamvipul.wixsite.com/vipularya](https://krishnamvipul.wixsite.com/vipularya)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vipularya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipularya" height="30" width="40" /></a>
-<a href="https://kaggle.com/k vipul arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="k vipul arya" height="30" width="40" /></a>
-<a href="https://instagram.com/vipul_aryaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipul_aryaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manojyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojyn" height="30" width="40" /></a>
+<a href="https://kaggle.com/manoj yn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Manojyn" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipul_aryaa" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
